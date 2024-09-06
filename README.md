@@ -1,5 +1,7 @@
 # Scheduler
 
+![C](c.jpeg)
+
 Implementa las diferentes estrategias de schedulers estudiados en clase y
 evalúa las ventajas y desventajas de cada una según las métricas vistas en
 conferencia.
